@@ -1,0 +1,27 @@
+_repo: Hardy-Ornamental-Flowering-Trees-and-Shrubs_10852
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, Angus Duncan
+    gutenberg_agent_id: '3719'
+    url: http://www.gutenberg.org/2009/agents/3719
+description: ''
+gutenberg_bookshelf:
+- Horticulture
+- Botany
+- Natural History
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flowering shrubs'
+- !lcc 'SB'
+- !lcsh 'Flowering trees'
+- GITenberg
+title: Hardy Ornamental Flowering Trees and Shrubs
+url: http://www.gutenberg.org/ebooks/10852
